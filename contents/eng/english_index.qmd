@@ -2,9 +2,10 @@
 title: "Electroencephalografic laboratory: guide"
 ---
 
-#### Contents:
 
-#### [Preparere the laboratory](contents/eng/eng_lab_preparation.html)
+## Contents:
+
+#### [Prepare the laboratory](contents/eng/eng_lab_preparation.html)
 What to do before participant's arrival.
 
 #### [Montage](contents/eng/eng_montage.html)
@@ -15,3 +16,4 @@ How to verify that the montage has been done correctly.
 
 #### [Visualize and record the signal: BrainVisionRecorder](contents/eng/eng_bvrecorder.html)
 
+#### [Clean up the laboratory](contents/eng/eng_clean.html)

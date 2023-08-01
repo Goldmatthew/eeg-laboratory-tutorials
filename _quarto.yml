@@ -5,14 +5,14 @@ project:
 website:
   title: "Laboratorio di elettroencefalografia: guida"
   navbar:
-    left:
+    right:
       - href: contents/eng/english_index.qmd
         text: English version
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
     toc_float: true

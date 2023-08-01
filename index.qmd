@@ -1,8 +1,12 @@
 ---
-title: "Laboratorio di elettroencefalografia: guida"
+title: " "
 ---
 
-#### Contenuti:
+## Contenuti:
+
+\n\n
+
+\n
 
 #### [Preparare il laboratorio](contents/ita/ita_preparazione_lab.html)
 Cosa preparare prima dell'arrivo del partecipante.
@@ -14,3 +18,5 @@ Come funziona il montaggio degli elettrodi.
 Come verificare che il montaggio sia eseguito correttamente.
 
 #### [Visualizzare e registrare il segnale: BrainVision Recorder](contents/ita/ita_bvrecorder.html)
+
+#### [Pulizia del laboratorio](contents/ita/ita_pulizie.html)
