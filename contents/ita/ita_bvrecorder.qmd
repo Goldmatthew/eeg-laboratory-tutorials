@@ -1,0 +1,15 @@
+---
+
+title: "BrainVision Recorder"
+author: "Mattia Doro"
+date: "2023-07-31"
+output:
+  html_document:
+
+---
+
+## Recording
+
+Open Brain Vision Recorder software.
+
+- Click on File, then on "Open Workspace". Choose now the workspace, that is located in C:/Vision/Mattia/ (extension: .rwksp). Differently from Acticap Control software for impedence check, you do not need to load a channel definition now.
