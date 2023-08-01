@@ -1,12 +1,6 @@
 ---
-title: " "
+title: "Contenuti"
 ---
-
-## Contenuti:
-
-\n\n
-
-\n
 
 #### [Preparare il laboratorio](contents/ita/ita_preparazione_lab.html)
 
