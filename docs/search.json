@@ -35,17 +35,17 @@
     "text": "Recording\nOpen Brain Vision Recorder software.\n\nClick on File, then on “Open Workspace”. Choose now the workspace, that is located in C:/Vision/Mattia/ (extension: .rwksp). Differently from Acticap Control software for impedence check, you do not need to load a channel definition now."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Laboratorio di elettroencefalografia: guida",
+    "objectID": "contents/ita/tioca.html",
+    "href": "contents/ita/tioca.html",
+    "title": "tiocà",
     "section": "",
-    "text": "Cosa preparare prima dell’arrivo del partecipante.\n\n\n\nCome funziona il montaggio degli elettrodi.\n\n\n\nCome verificare che il montaggio sia eseguito correttamente."
+    "text": "tiocà"
   },
   {
-    "objectID": "index.html#contenuti",
-    "href": "index.html#contenuti",
-    "title": "Laboratorio di elettroencefalografia: guida",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Contenuti",
     "section": "",
-    "text": "Cosa preparare prima dell’arrivo del partecipante.\n\n\n\nCome funziona il montaggio degli elettrodi.\n\n\n\nCome verificare che il montaggio sia eseguito correttamente."
+    "text": "Preparare il laboratorio\nCosa preparare prima dell’arrivo del partecipante.\n\n\nMontaggio\nCome funziona il montaggio degli elettrodi.\n\n\nTest delle impedenze: ActiCap Control\nCome verificare che il montaggio sia eseguito correttamente.\n\n\nVisualizzare e registrare il segnale: BrainVision Recorder\n\n\nPulizia del laboratorio\n\n\ntiocà"
   }
 ]
