@@ -3,19 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Laboratorio di elettroencefalografia: guida"
+  title: "Lab EEG - DPSS"
   navbar:
     right:
       - href: contents/eng/english_index.qmd
         text: English version
       - about.qmd
 
+      
+
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
-    toc_float: true
+    
+  
+  
 
 editor: visual
 

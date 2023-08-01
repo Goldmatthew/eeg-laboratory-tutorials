@@ -11,26 +11,19 @@
     "href": "contents/eng/english_index.html",
     "title": "Electroencephalografic laboratory: guide",
     "section": "",
-    "text": "What to do before participant’s arrival.\n\n\n\nHow electrodes montage works.\n\n\n\nHow to verify that the montage has been done correctly."
-  },
-  {
-    "objectID": "contents/eng/english_index.html#contents",
-    "href": "contents/eng/english_index.html#contents",
-    "title": "Electroencephalografic laboratory: guide",
-    "section": "",
-    "text": "What to do before participant’s arrival.\n\n\n\nHow electrodes montage works.\n\n\n\nHow to verify that the montage has been done correctly."
+    "text": "Preparing the Laboratory\nWhat to prepare before the participant’s arrival.\n\n\nMontage\nHow the electrode montage works.\n\n\nImpedance Test: ActiCap Control\nHow to verify that the montage has been done correctly.\n\n\nSignal Visualization and Recording: BrainVision Recorder\nA glance at the signal, and we are ready to start the experiment.\n\n\nLaboratory Cleanup\nKeeping the laboratory tidy (and taking care not to damage the equipment during cleaning)."
   },
   {
     "objectID": "contents/ita/ita_bvrecorder.html",
     "href": "contents/ita/ita_bvrecorder.html",
-    "title": "Laboratorio di elettroencefalografia: guida",
+    "title": "Lab EEG - DPSS",
     "section": "",
     "text": "title: “BrainVision Recorder” author: “Mattia Doro” date: “2023-07-31” output: html_document:"
   },
   {
     "objectID": "contents/ita/ita_bvrecorder.html#recording",
     "href": "contents/ita/ita_bvrecorder.html#recording",
-    "title": "Laboratorio di elettroencefalografia: guida",
+    "title": "Lab EEG - DPSS",
     "section": "Recording",
     "text": "Recording\nOpen Brain Vision Recorder software.\n\nClick on File, then on “Open Workspace”. Choose now the workspace, that is located in C:/Vision/Mattia/ (extension: .rwksp). Differently from Acticap Control software for impedence check, you do not need to load a channel definition now."
   },
@@ -44,8 +37,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Contenuti",
+    "title": "Laboratorio di elettroencefalografia: guida",
     "section": "",
-    "text": "Preparare il laboratorio\nCosa preparare prima dell’arrivo del partecipante.\n\n\nMontaggio\nCome funziona il montaggio degli elettrodi.\n\n\nTest delle impedenze: ActiCap Control\nCome verificare che il montaggio sia eseguito correttamente.\n\n\nVisualizzare e registrare il segnale: BrainVision Recorder\n\n\nPulizia del laboratorio\n\n\ntiocà"
+    "text": "Preparare il laboratorio\nCosa preparare prima dell’arrivo del partecipante.\n\n\nMontaggio\nCome funziona il montaggio degli elettrodi.\n\n\nTest delle impedenze: ActiCap Control\nCome verificare che il montaggio sia eseguito correttamente.\n\n\nVisualizzare e registrare il segnale: BrainVision Recorder\nUn’occhiata al segnale e siamo pronti ad iniziare l’esperimento.\n\n\nPulizia del laboratorio\nManteniamo il laboratorio in ordine (e impegnamoci a non danneggiare le attrezzature durante le pulizie).\n\n\ntiocà"
   }
 ]
