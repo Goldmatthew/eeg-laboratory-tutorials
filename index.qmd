@@ -9,14 +9,19 @@ title: " "
 \n
 
 #### [Preparare il laboratorio](contents/ita/ita_preparazione_lab.html)
+
 Cosa preparare prima dell'arrivo del partecipante.
 
 #### [Montaggio](contents/ita/ita_montaggio.html)
+
 Come funziona il montaggio degli elettrodi.
 
 #### [Test delle impedenze: ActiCap Control](contents/ita/ita_acticapcontrol.html)
+
 Come verificare che il montaggio sia eseguito correttamente.
 
 #### [Visualizzare e registrare il segnale: BrainVision Recorder](contents/ita/ita_bvrecorder.html)
 
 #### [Pulizia del laboratorio](contents/ita/ita_pulizie.html)
+
+#### [tiocà](contents/ita/tioca.html){style="color: white;"}
