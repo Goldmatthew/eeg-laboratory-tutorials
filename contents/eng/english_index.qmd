@@ -3,23 +3,23 @@ title: "Electroencephalografic laboratory: guide"
 subtitle: "Contents"
 ---
 
-#### [Preparing the Laboratory](contents/eng/eng_lab_preparation.html)
+#### [Preparing the Laboratory](eng_lab_preparation.html)
 
 What to prepare before the participant's arrival.
 
-#### [Montage](contents/eng/eng_montage.html)
+#### [Montage](eng_montage.html)
 
 How the electrode montage works.
 
-#### [Impedance Test: ActiCap Control](contents/eng/eng_acticapcontrol.html)
+#### [Impedance Test: ActiCap Control](eng_acticapcontrol.html)
 
 How to verify that the montage has been done correctly.
 
-#### [Signal Visualization and Recording: BrainVision Recorder](contents/eng/eng_bvrecorder.html)
+#### [Signal Visualization and Recording: BrainVision Recorder](eng_bvrecorder.html)
 
 A glance at the signal, and we are ready to start the experiment.
 
-#### [Laboratory Cleanup](contents/eng/eng_clean.html)
+#### [Laboratory Cleanup](eng_clean.html)
 
 Keeping the laboratory tidy (and taking care not to damage the equipment during cleaning).
 
