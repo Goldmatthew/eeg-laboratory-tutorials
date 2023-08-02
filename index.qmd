@@ -23,5 +23,3 @@ Un'occhiata al segnale e siamo pronti ad iniziare l'esperimento.
 #### [Pulizia del laboratorio](contents/ita/ita_pulizie.html)
 
 Manteniamo il laboratorio in ordine (e impegnamoci a non danneggiare le attrezzature durante le pulizie).
-
-#### [tiocà](contents/ita/tioca.html){style="color: white;"}
