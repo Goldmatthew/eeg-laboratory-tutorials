@@ -1,3 +1,19 @@
-# prepare the lab
+# Setting up the laboratory
 
-asdfasdf
+Behind laboratory #1's door, you will find this switch. Turn it to the red side to activate the "Laboratory in use" indication outside the lab, in order to prevent disruptions during the experimental session.
+
+
+```{r switchpic, echo = FALSE, fig.align='center', out.width="60%"}
+
+knitr::include_graphics("../img/LabMaterial/labswitch.jpg")
+
+```
+
+- Fill two syringes (approximately a half) with SuperVisc gel, but without attaching the needles (we usually open the needle packages and insert them in front of the participant to demonstrate that they are single-use needles). It's advisable to keep the syringes covered with paper, so in case the arriving participant is frightened by them, we can prevent anxious reactions.
+- Put a bit of Nuprep gel (scrub) inside the green cup, along with two cotton swabs.
+- Place the informed consent form and a pen on the desk where the participant will perform the experiment.
+- Take the electrodes (including the reference and ground ones) and place the adhesive discs where necessary.
+- Ensure that you have everything you need for the setup (e.g., where is the measuring tape?).
+
+
+In reference to the next section (i.e., [Montage](eng_montage.qmd)), consider whether to already position the electrodes on the cap.

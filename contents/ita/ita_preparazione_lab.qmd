@@ -1,1 +1,20 @@
+# Preparare il laboratorio
 
+Dietro la porta del laboratorio #1 trovi questo interruttore. Posizionalo sul lato rosso per accendere l'indicazione "Laboratory in use" fuori dal laboratorio, così da evitare disturbi durante la sessione sperimentale.
+
+
+```{r switchpic, echo = FALSE, fig.align='center', out.width="60%"}
+
+knitr::include_graphics("../img/LabMaterial/labswitch.jpg")
+
+```
+
+
+- Riempire due siringhe (indicativamente per metà) con gel SuperVisc senza però avvitare gli aghi (è buona norma aprire l'involucro degli aghi e inserirli nelle siringe davanti al partecipante, al fine di dimostrare che sono aghi monouso). È consigliabile tenere le siringhe coperte da della carta, così nel caso in cui il partecipante che arriverà sia spaventato da queste riusciremo a scongiurare reazioni ansiose.
+- Mettere un po' di gel Nuprep (scrub) dentro la coppetta verde, assieme a due cotton fioc.
+- Posizionare il consenso informato e una penna sulla scrivania dove il partecipante svolgerà l'esperimento.
+- Prendere gli elettrodi (anche il reference e il ground) e posizionare i dischetti adesivi dove necessario.
+- Assicurati di avere tutto il necessario per il montaggio (ad esempio, dove si trova il metro?).
+
+
+In riferimento alla prossima sezione (i.e., [Montaggio](ita_montaggio.qmd)), valuta se posizionare già gli elettrodi sulla cuffia.

@@ -3,22 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Lab EEG - DPSS"
+  title: " "
   navbar:
     right:
       - href: contents/eng/english_index.qmd
-        text: English version
+        text: Home page (english)
       - about.qmd
-
-      
+    left:
+      - href: index.qmd
+        text: Pagina iniziale (italiano)
 
 format:
   html:
     theme: lux
     css: styles.css
-    toc: true
     
-  
   
 
 editor: visual

@@ -1,8 +1,9 @@
 ---
 title: "Laboratorio di elettroencefalografia: guida"
-subtitle: "Contenuti"
+
 ---
 
+### Contenuti:
 
 #### [Preparare il laboratorio](contents/ita/ita_preparazione_lab.html)
 

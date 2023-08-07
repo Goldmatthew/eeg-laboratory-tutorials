@@ -1,9 +1,10 @@
 ---
 title: "Electroencephalografic laboratory: guide"
-subtitle: "Contents"
----
 
-#### [Preparing the Laboratory](eng_lab_preparation.html)
+---
+### Contents:
+
+#### [Setting up the Laboratory](eng_lab_preparation.html)
 
 What to prepare before the participant's arrival.
 
@@ -19,7 +20,7 @@ How to verify that the montage has been done correctly.
 
 A glance at the signal, and we are ready to start the experiment.
 
-#### [Laboratory Cleanup](eng_clean.html)
+#### [Laboratory Cleanup](  eng_clean.html)
 
 Keeping the laboratory tidy (and taking care not to damage the equipment during cleaning).
 
