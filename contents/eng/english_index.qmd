@@ -8,13 +8,17 @@ title: "Electroencephalografic laboratory: guide"
 
 What to prepare before the participant's arrival.
 
-#### [Montage](eng_montage.html)
+#### [ActiCap montage (active electrodes)](eng_montage.html)
 
 How the electrode montage works.
 
 #### [Impedance Test: ActiCap Control](eng_acticapcontrol.html)
 
 How to verify that the montage has been done correctly.
+
+#### [R-Net montage](contents/eng/eng_rnet.html)
+
+How high-density montage works.
 
 #### [Signal Visualization and Recording: BrainVision Recorder](eng_bvrecorder.html)
 

@@ -3,19 +3,30 @@ title: "Laboratorio di elettroencefalografia: guida"
 
 ---
 
+```{r header, echo = FALSE, fig.align='center', out.width="40%"}
+
+# knitr::include_graphics()
+
+```
+
+
 ### Contenuti:
 
 #### [Preparare il laboratorio](contents/ita/ita_preparazione_lab.html)
 
 Cosa preparare prima dell'arrivo del partecipante.
 
-#### [Montaggio](contents/ita/ita_montaggio.html)
+#### [Montaggio ActiCap (elettrodi attivi)](contents/ita/ita_montaggio.html)
 
 Come funziona il montaggio degli elettrodi.
 
 #### [Test delle impedenze: ActiCap Control](contents/ita/ita_acticapcontrol.html)
 
 Come verificare che il montaggio sia eseguito correttamente.
+
+#### [Montaggio R-Net](contents/ita/ita_rnet.html)
+
+Come funziona il montaggio ad alta densità.
 
 #### [Visualizzare e registrare il segnale: BrainVision Recorder](contents/ita/ita_bvrecorder.html)
 

@@ -1,0 +1,35 @@
+---
+toc: false
+---
+
+# Test delle impedenze: ActiCap Control
+
+- Aprire il software ActiCap control, l'icona si trova sul desktop del computer di registrazione. 
+
+- Fare click su "File" e poi su "Load Recorder Workspace". A questo punto è necessario caricare un file che informi il software relativamente alla quantità di elettrodi che abbiamo sulla cuffia. Per questa ragione, è sufficiente caricare il file di un montaggio standard a 32 o a 64 elettrodi (il formato del file è .rwksp). In alternativa, è possibile caricare il file del vostro montaggio specifico.
+
+- Fare click nuovamente su "File" e poi su "Load Channel Definition". Ora sarà necessario caricare il file specifico (formato .acdf) che informa il software relativamente alla posizione degli elettrodi (questo è necessario perché rispetto al montaggio standard che prevede tutti gli elettrodi posizionati sulla cuffia, il montaggio effettivamente utilizzato prevede qualche elettrodo spostato, ad esempio, sul viso).
+
+- Spostarsi nella tab "Impedence Check" del software e fare click a sinistra su "Impedance On". Ciò che lo schermo dovrebbe mostrare è ciò che è presente nella figura sottostante.
+
+```{r impedanceon, echo = FALSE, fig.align='center', out.width="98%"}
+
+knitr::include_graphics("../img/acticapcontrol/impedanceon.png")
+
+```
+
+<p>- Gli elettrodi raffigurati sono colorati di rosso, indicando che la loro <abbr title="Indicativamente, l'impedenza è la resistenza al passaggio elettrico (dallo scalpo all'elettrodo).">impedenza</abbr> è troppo elevata.</p>
+
+- I primi due elettrodi che hanno la necessità di avere un'impedenza adeguata al fine di poter permettere a tutti gli altri elettrodi di funzionare sono Reference e Ground (ovvero l'elettrodo blu e quello nero, rispettivamente), che sono raffigurati sulla sinistra della schermata, a prescindere della loro collocazione reale. Il valore di impedenza di ciascun elettrodo è riportata sulla schermata all'interno di ciascun cerchio colorato.
+
+- Nella parte sinistra della schermata sono presenti tre campi:
+  - Good level: se l'impedenza di un elettrodo è al di sotto di questa soglia, verrà raffigurato sullo schermo di colore verde, così come il led all'interno dell'elettrodo sarà verde.
+  - Bad level: se l'impedenza di un elettrodo è al di sopra di questa soglia, verrà raffigurato sullo schermo di colore rosso, così come il led all'interno dell'elettrodo sarà rosso.
+  - Timeout: dopo questo intervallo di tempo il sistema riprodurrà un suono e l'impedence check si spegnerà. Questa funzionalità non ha una particolare utilità, se non quella di informare gli sperimentatori di quanto tempo sia passato.
+
+Se il valore di impedenza di un elettrodo è compresa tra il good level e il bad level, l'elettrodo raffigurato sullo schermo e il suo led saranno di colore giallo.
+
+- Il valore soglia per l'impedenza di ciascun elettrodo è relativamente soggettivo, nonostante un valore al di sotto dei 10-20 k$\Omega$ è auspicabile (e per gli elettrodi Reference e Ground un'impedenza inferiore ai 5 k$\Omega$ è molto suggerita poiché dal segnale di questi due elettrodi dipende il segnale di tutti gli altri).
+
+- Quando l'impedenza di un elettrodo è troppo elevata, fare riferimento alle istruzioni relative al [montaggio](ita_montaggio.html#montaggio).
+  
