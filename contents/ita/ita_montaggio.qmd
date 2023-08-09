@@ -22,7 +22,7 @@ Ci sono due diverse possibilità di fare il montaggio: si può valutare se monta
 
 - Mettere la cuffia.
 
-- Spostare i capelli con l'ago, applicare un po' di gel, e poi rimuovere i capelli di nuovo, se necessario.
+- Spostare i capelli con l'ago, applicare un po' di gel, e poi spostare nuovamente i capelli, se necessario. **Importante**: non inserire troppo gel, poiché se il gel di un elettrodo va a contatto con il gel di un elettrodo vicino i segnali dei due verranno interpolati (i.e., il segnale dei due elettrodi sarà lo stesso, e sarà uguale alla media dei due).
 
 - Ricorda che oltre a spostare i capelli, stiamo anche facendo una leggera pulizia dello scalpo con l'ago (che è necessaria per ridurre l'impedenza).
 

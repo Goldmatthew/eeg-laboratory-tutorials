@@ -24,7 +24,7 @@ There are two different possibilities for the montage: you can decide whether to
 
 - Move the hair with the needle, apply some gel, and then move the hair again if necessary.
 
-- Remember that in addition to moving the hair, we are also lightly cleaning the scalp with the needle (which is necessary to reduce impedance).
+- Remember that in addition to moving the hair, we are also lightly cleaning the scalp with the needle (which is necessary to reduce impedance). **Important**: Do not apply too much gel, as if the gel from one electrode comes into contact with the gel from a neighboring electrode, the signals of the two will be interpolated (i.e., the signal from the two electrodes will be the same, and it will be equal to the average of the two).
 
 ### 32-channel montage (Active electrodes, actiCap)
 
