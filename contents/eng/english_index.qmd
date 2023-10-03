@@ -1,7 +1,7 @@
 ---
 title: "Electroencephalografic laboratory: guide"
-
 ---
+
 ### Contents:
 
 #### [Setting up the Laboratory](eng_lab_preparation.html)
@@ -24,10 +24,6 @@ How high-density montage works.
 
 A glance at the signal, and we are ready to start the experiment.
 
-#### [Laboratory Cleanup](  eng_clean.html)
+#### [Laboratory Cleanup](eng_clean.html)
 
 Keeping the laboratory tidy (and taking care not to damage the equipment during cleaning).
-
-
-
-

@@ -1,15 +1,22 @@
 ---
-
-title: "BrainVision Recorder"
-author: "Mattia Doro"
-date: "2023-07-31"
-output:
-  html_document:
-
+toc: false
 ---
 
-## Recording
+# Brain Vision Recorder
 
-Open Brain Vision Recorder software.
+- Aprire il software Brain Vision Recorder, l'icona si trova sul desktop del pc di registrazione (nella stanza di controllo).
 
-- Click on File, then on "Open Workspace". Choose now the workspace, that is located in C:/Vision/Mattia/ (extension: .rwksp). Differently from Acticap Control software for impedence check, you do not need to load a channel definition now.
+- Cliccare su File, quindi su "Open workspace". A questo punto è necessario caricare il file specifico relativo al montaggio. Questo informerà il software sia di quali sono i canali che registriamo, 
+
+<abbr title="La frequenza di campionamento, espressa in Hertz (Hz) indica il numero di dati registrati nell'unità di tempo (secondo). Una frequenza di campionamento di 500 Hz indica che per ogni secondo registreremo l'ampiezza di segnale 500 volte per ciascun elettrodo (i.e., ogni 2 millisecondi).">frequenza di campionamento</abbr> eventuali filtri del segnale (questi ultimi sconsigliati), così come DOVE salvare i dati.
+
+- Ora cliccando sull'icona che raffigura un occhio potremo vedere il segnale (anche se non lo stiamo ancora registrando).
+
+- Altre icone:
+    -   Aumenta/riduci la scale dell'asse x (tempo).
+    -   Aumenta/riduci la scala dell'asse y (ampiezza).
+    -   Aumenta/riduci il numero di canali visualizzati a schermo.
+    -   Informazioni relative al montaggio.
+
+  
+

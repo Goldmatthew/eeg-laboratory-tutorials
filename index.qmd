@@ -1,6 +1,5 @@
 ---
 title: "Laboratorio di elettroencefalografia: guida"
-
 ---
 
 ```{r header, echo = FALSE, fig.align='center', out.width="40%"}
@@ -8,7 +7,6 @@ title: "Laboratorio di elettroencefalografia: guida"
 # knitr::include_graphics()
 
 ```
-
 
 ### Contenuti:
 
