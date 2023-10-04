@@ -1,1 +1,5 @@
+---
+toc: false
+---
 
+# Laboratory cleanup

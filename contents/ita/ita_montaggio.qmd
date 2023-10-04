@@ -16,30 +16,30 @@ knitr::include_graphics("../img/LabMaterial/fibers.jpg")
 
 Ci sono due diverse possibilità di fare il montaggio: si può valutare se montare gli elettrodi sulla cuffia prima dell'arrivo del partecipante oppure quando il partecipante ha già la cuffia posizionata. Nel primo caso, è necessario scegliere la dimensione della cuffia prima di aver misurato la circonferenza cranica del partecipante: mediamente per le donne la cuffia da 56 cm, e per gli uomini quella da 58, però non sempre questo è vero. Nel secondo caso, la cuffia verrà scelta ad hoc per il partecipante, ma ovviamente il tempo di montaggio sarà leggermente superiore.
 
-- Pulire con lo scrub sotto l'occhio sinistro, vicino agli angoli palpebrali esterni, tenendo conto che gli elettrodi saranno posizionati allineati alle pupille.
+-   Pulire con lo scrub sotto l'occhio sinistro, vicino agli angoli palpebrali esterni, tenendo conto che gli elettrodi saranno posizionati allineati alle pupille.
 
-- Pulire con lo scrub i lobi delle orecchie.
+-   Pulire con lo scrub i lobi delle orecchie.
 
-- Mettere la cuffia.
+-   Mettere la cuffia.
 
-- Spostare i capelli con l'ago, applicare un po' di gel, e poi spostare nuovamente i capelli, se necessario. **Importante**: non inserire troppo gel, poiché se il gel di un elettrodo va a contatto con il gel di un elettrodo vicino i segnali dei due verranno interpolati (i.e., il segnale dei due elettrodi sarà lo stesso, e sarà uguale alla media dei due).
+-   Spostare i capelli con l'ago, applicare un po' di gel, e poi spostare nuovamente i capelli, se necessario. **Importante**: non inserire troppo gel, poiché se il gel di un elettrodo va a contatto con il gel di un elettrodo vicino i segnali dei due verranno interpolati (i.e., il segnale dei due elettrodi sarà lo stesso, e sarà uguale alla media dei due).
 
-- Ricorda che oltre a spostare i capelli, stiamo anche facendo una leggera pulizia dello scalpo con l'ago (che è necessaria per ridurre l'impedenza).
+-   Ricorda che oltre a spostare i capelli, stiamo anche facendo una leggera pulizia dello scalpo con l'ago (che è necessaria per ridurre l'impedenza).
 
 ### Montaggio a 32 canali
 
-- Posizionare prima gli elettrodi sul cuoio capelluto e poi quelli esterni (occhi e lobi delle orecchie).
+-   Posizionare prima gli elettrodi sul cuoio capelluto e poi quelli esterni (occhi e lobi delle orecchie).
 
-- Cercare di essere quanto più simmetrici nel posizionamento degli elettrodi alla sinistra e alla destra degli angoli palpebrali (HEOG left e HEOG right), e assicurarsi di applicare tutti e tre gli elettrodi oculari in linea con le pupille.
+-   Cercare di essere quanto più simmetrici nel posizionamento degli elettrodi alla sinistra e alla destra degli angoli palpebrali (HEOG left e HEOG right), e assicurarsi di applicare tutti e tre gli elettrodi oculari in linea con le pupille.
 
 ### Montaggio a 62 canali
 
-- Posizionare prima gli elettrodi da 1 a 32, che dovranno andare nei supporti della cuffia di colore verde, poi quelli da 33 a 64, che dovranno andare nei supporti gialli, le numerazioni sono in entrambi i casi da 1 a 32. Per comodità, posizionare gli elettrodi esterni (occhi e lobi delle orecchie) dopo di quelli sullo scalpo.
-- Cercare di essere quanto più simmetrici nel posizionamento degli elettrodi alla sinistra e alla destra degli angoli palpebrali (HEOG left e HEOG right), e assicurarsi di applicare tutti e tre gli elettrodi oculari in linea con le pupille.
+-   Posizionare prima gli elettrodi da 1 a 32, che dovranno andare nei supporti della cuffia di colore verde, poi quelli da 33 a 64, che dovranno andare nei supporti gialli, le numerazioni sono in entrambi i casi da 1 a 32. Per comodità, posizionare gli elettrodi esterni (occhi e lobi delle orecchie) dopo di quelli sullo scalpo.
+-   Cercare di essere quanto più simmetrici nel posizionamento degli elettrodi alla sinistra e alla destra degli angoli palpebrali (HEOG left e HEOG right), e assicurarsi di applicare tutti e tre gli elettrodi oculari in linea con le pupille.
 
 # Gestire l'hardware
 
-- Scollega la batteria staccando la spina blu e grigia sulla parte superiore (può fornire energia agli amplificatori solo se non è in carica).
+-   Scollega la batteria staccando la spina blu e grigia sulla parte superiore (può fornire energia agli amplificatori solo se non è in carica).
 
 ```{r ampfront, echo = FALSE, fig.align='center', out.width="40%"}
 
@@ -47,7 +47,7 @@ knitr::include_graphics("../img/LabMaterial/amp_front.jpg")
 
 ```
 
-- Accendi gli amplificatori con gli interruttori situati dietro di essi.
+-   Accendi gli amplificatori con gli interruttori situati dietro di essi.
 
 ```{r ampback, echo = FALSE, fig.align='center', out.width="40%"}
 
@@ -55,7 +55,7 @@ knitr::include_graphics("../img/LabMaterial/amp_back.jpg")
 
 ```
 
-- Collega gli elettrodi alla Control Box. Se stai eseguendo un montaggio a 32 canali, collegali nello slot verde "Ch. 1-32 Splitter Box". Se stai eseguendo un montaggio a 64 canali, collega anche gli altri 32 elettrodi (quelli inseriti nei supporti gialli della cuffia) nello slot giallo (Ch. 33-64 Splitter Box).
+-   Collega gli elettrodi alla Control Box. Se stai eseguendo un montaggio a 32 canali, collegali nello slot verde "Ch. 1-32 Splitter Box". Se stai eseguendo un montaggio a 64 canali, collega anche gli altri 32 elettrodi (quelli inseriti nei supporti gialli della cuffia) nello slot giallo (Ch. 33-64 Splitter Box).
 
 ```{r gy, echo = FALSE, fig.align='center', out.width="40%"}
 
@@ -63,7 +63,7 @@ knitr::include_graphics("../img/LabMaterial/greenyellow.jpg")
 
 ```
 
-- Il modo corretto per collegarli è far corrispondere il triangolo sulla presa con quello nello slot (vedi immagine sotto). Spingi delicatamente la presa per inserirla.
+-   Il modo corretto per collegarli è far corrispondere il triangolo sulla presa con quello nello slot (vedi immagine sotto). Spingi delicatamente la presa per inserirla.
 
 ```{r triangles, echo = FALSE, fig.align='center', out.width="40%"}
 
@@ -71,7 +71,7 @@ knitr::include_graphics("../img/LabMaterial/triangles.jpg")
 
 ```
 
-- Ora, collega l'elettrodo Ref (Riferimento) e Gnd (Terra) nei rispettivi slot. C'è un piccolo taglio su entrambe le spine che ti aiuterà a inserirle nel modo giusto.
+-   Ora, collega l'elettrodo Ref (Riferimento) e Gnd (Terra) nei rispettivi slot. C'è un piccolo taglio su entrambe le spine che ti aiuterà a inserirle nel modo giusto.
 
 ```{r refgnd, echo = FALSE, fig.align='center', out.width="40%"}
 
@@ -79,6 +79,6 @@ knitr::include_graphics("../img/LabMaterial/refgnd.jpg")
 
 ```
 
-- Il pulsante di standby sulla scatola di controllo dovrebbe già essere acceso. In caso contrario, accendilo premendolo per alcuni secondi.
+-   Il pulsante di standby sulla scatola di controllo dovrebbe già essere acceso. In caso contrario, accendilo premendolo per alcuni secondi.
 
 **Nota importante: è fondamentale inserire tutti i connettori nel verso giusto, onde evitare rotture di questi.**

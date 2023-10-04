@@ -1,0 +1,29 @@
+---
+toc: false
+---
+
+# Brain Vision Recorder
+
+- Open the Brain Vision Recorder software, the icon is located on the recording PC desktop (in the control room).  
+
+- Click on File, then on \"Open workspace\". At this point, it is necessary to load the specific file related to the montage. This will inform the software of which channels we are recording, <abbr title="The sampling frequency, expressed in Hertz (Hz), indicates the number of data recorded per unit of time (second). A sampling frequency of 500 Hz indicates that we will record the signal amplitude 500 times per second for each electrode (i.e., every 2 milliseconds).">sampling frequency\</abbr\> any signal filters (the latter not recommended), as well as WHERE to save the data.
+
+
+```{r impedanceon, echo = FALSE, fig.align='center', out.width="98%"}    
+knitr::include_graphics("../img/bvrecorder/bvrecorder.png")  
+```
+
+- Now, by clicking on the eye icon, we can see the signal (even if we are not yet recording it).
+
+- Other icons:
+  -   Increase/decrease the scale of the x-axis (time).
+  -   Increase/decrease the scale of the y-axis (amplitude).
+  -   Increase/decrease the number of channels displayed on screen.
+  -   Information about the montage.
+
+
+- To start recording, simply click on the green \"play\" icon. A dialog box will open where you can enter the name of the file you will save (potentially, the workspace is already set to propose a progressive participant number).
+- Recording can be temporarily suspended by clicking on the blue \"pause\" icon and resumed by clicking again on the green \"play\" icon.
+- At the end of the experiment, to conclude recording, simply click on the red \"stop\" icon.
+
+**Note**: Data is saved in real time, so in case of any interruption, bug, or whatever, there will be no loss of data recorded before the critical event.
