@@ -17,3 +17,6 @@ knitr::include_graphics("../img/LabMaterial/labswitch.jpg")
 
 
 In reference to the next section (i.e., [Montage](eng_montage.qmd)), consider whether to already position the electrodes on the cap.
+
+[Go to top](#top) /
+[Go back to the home page](english_index.html)

@@ -83,3 +83,6 @@ knitr::include_graphics("../img/LabMaterial/refgnd.jpg")
 - The standby button on the control box should already be turned on. If not, turn it on by pressing it for a few seconds.
 
 **Important Note: It is crucial to plug all the connectors in the right way to prevent any breakage.**
+
+[Go to top](#top) /
+[Go back to the home page](english_index.html)

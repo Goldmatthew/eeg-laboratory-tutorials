@@ -18,3 +18,6 @@ knitr::include_graphics("../img/LabMaterial/labswitch.jpg")
 
 
 In riferimento alla prossima sezione (i.e., [Montaggio](ita_montaggio.qmd)), valuta se posizionare già gli elettrodi sulla cuffia.
+
+[Torna a inizio pagina](#top) /
+[Torna all'home page](../../index.html)

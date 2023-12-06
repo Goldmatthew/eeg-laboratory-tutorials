@@ -16,7 +16,7 @@ How the electrode montage works.
 
 How to verify that the montage has been done correctly.
 
-#### [R-Net montage](contents/eng/eng_rnet.html)
+#### [R-Net montage](eng_rnet.html)
 
 How high-density montage works.
 

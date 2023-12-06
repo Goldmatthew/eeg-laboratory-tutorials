@@ -4,4 +4,8 @@ toc: false
 
 # Pulizia del laboratorio
 
+Coming soon.
+
+[Torna a inizio pagina](#top) /
+[Torna all'home page](../../index.html)
 

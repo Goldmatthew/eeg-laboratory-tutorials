@@ -27,3 +27,6 @@ knitr::include_graphics("../img/bvrecorder/bvrecorder.png")
 - At the end of the experiment, to conclude recording, simply click on the red \"stop\" icon.
 
 **Note**: Data is saved in real time, so in case of any interruption, bug, or whatever, there will be no loss of data recorded before the critical event.
+
+[Go to top](#top) /
+[Go back to the home page](english_index.html)

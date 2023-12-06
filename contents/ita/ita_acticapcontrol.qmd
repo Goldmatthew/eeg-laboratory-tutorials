@@ -36,3 +36,8 @@ Se il valore di impedenza di un elettrodo è compresa tra il good level e il bad
 -   Il valore soglia per l'impedenza di ciascun elettrodo è relativamente soggettivo, nonostante un valore al di sotto dei 10-20 k$\Omega$ è auspicabile (e per gli elettrodi Reference e Ground un'impedenza inferiore ai 5 k$\Omega$ è molto suggerita poiché dal segnale di questi due elettrodi dipende il segnale di tutti gli altri).
 
 -   Quando l'impedenza di un elettrodo è troppo elevata, fare riferimento alle istruzioni relative al [montaggio](ita_montaggio.html#montaggio).
+
+
+[Torna a inizio pagina](#top) /
+[Torna all'home page](../../index.html)
+

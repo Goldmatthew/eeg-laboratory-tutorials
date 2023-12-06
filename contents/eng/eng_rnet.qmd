@@ -3,3 +3,6 @@ title: "R-Net"
 ---
 
 Coming soon.
+
+[Go to top](#top) /
+[Go back to the home page](english_index.html)

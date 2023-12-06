@@ -36,3 +36,6 @@ If an electrode's impedance value falls between the good level and the bad level
 -   The threshold value for the impedance of each electrode is relatively subjective; however, a value below 10-20 k$\Omega$ is desirable (and for Reference and Ground electrodes, an impedance below 5 k$\Omega$ is highly recommended, as the signal from these two electrodes affects the signal of all others).
 
 -   When an electrode's impedance is too high, refer to the instructions about [montage](eng_montage.html#montage).
+
+[Go to top](#top) /
+[Go back to the home page](english_index.html)

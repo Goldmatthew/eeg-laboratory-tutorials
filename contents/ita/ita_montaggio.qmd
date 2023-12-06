@@ -82,3 +82,7 @@ knitr::include_graphics("../img/LabMaterial/refgnd.jpg")
 -   Il pulsante di standby sulla scatola di controllo dovrebbe già essere acceso. In caso contrario, accendilo premendolo per alcuni secondi.
 
 **Nota importante: è fondamentale inserire tutti i connettori nel verso giusto, onde evitare rotture di questi.**
+
+
+[Torna a inizio pagina](#top) /
+[Torna all'home page](../../index.html)

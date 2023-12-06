@@ -29,3 +29,6 @@ knitr::include_graphics("../img/bvrecorder/bvrecorder.png")
 
 **Nota**: i dati vengono salvati in tempo reale, perciò in caso di qualsiasi interruzione, bug, o quant'altro, non vi sarà una perdita dei dati registrati prima dell'evento critico.
 
+
+[Torna a inizio pagina](#top) /
+[Torna all'home page](../../index.html)
